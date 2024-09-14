@@ -1,6 +1,7 @@
 # Machine Learning
 
 ## Projects
+- [Python Modules](https://github.com/sandyg6/Machine-Learning-Practice/tree/main/Python%20Modules)
 1. [Iris Species Classification](https://github.com/sandyg6/Machine-Learning-Practice/tree/main/Iris%20Species%20Classification)
 2. [Loan Prediction](https://github.com/sandyg6/Machine-Learning-Practice/tree/main/Loan%20Prediction)
 
