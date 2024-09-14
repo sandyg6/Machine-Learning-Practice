@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IRIS Species</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <form action='/predict' method="POST">
+        <h2>IRIS Species Classification</h2>
+        <div>
+        <label for="sl">Sepal Length</label>
+        <input type='text' id="sl" name='sepal_length'>
+        </div>
+        <div>
+        <label for="sw">Sepal Width</label>
+        <input type='text' id="sw" name='sepal_width'>
+        </div>
+        <div>
+        <label for="pl">Petal Length</label>
+        <input type='text' id="pl" name='petal_length'>
+        </div>
+        <div>
+        <label for="pw">Petal Width</label>
+        <input type='text' id="pw" name='petal_width'>
+        </div>
+        <div>
+        <p>Predicted Class: {{result}} </p>
+        </div>
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>
