@@ -1,6 +1,8 @@
 # Car-Price-Prediction
-### Building the Linear regression Model from scratch
+### Building the Linear regression Model from scratch 
 [Code File](https://github.com/sandyg6/Machine-Learning-Practice/blob/main/Car%20Price%20Prediction/Lin-Reg-Scratch.ipynb)
+
+[Complete Model](https://github.com/sandyg6/Machine-Learning-Practice/blob/main/Car%20Price%20Prediction/CarPrice.ipynb)
 
 Dataset - https://www.kaggle.com/datasets/CooperUnion/cardataset
 
