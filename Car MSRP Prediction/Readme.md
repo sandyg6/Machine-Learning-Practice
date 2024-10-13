@@ -1,4 +1,4 @@
-# Car-Price-Prediction
+# Car-MSRP-Prediction
 ### Building the Linear regression Model from scratch 
 [Scratch project practice](https://github.com/sandyg6/Machine-Learning-Practice/blob/main/Car%20Price%20Prediction/Lin-Reg-Scratch.ipynb)
 
