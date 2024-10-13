@@ -10,4 +10,6 @@ Dataset - https://www.kaggle.com/datasets/uciml/iris?resource=download
 - flask
 - scikit-learn
 
-  
+
+### DEMO
+<img src="demo.png" width="630" height="400">
